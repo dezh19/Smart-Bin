@@ -9,7 +9,7 @@
 *Figure 2: Stay informed with dashboard.*
 
 ### Waste Tracking Sign-Up
-![User-Friendly Sign-Up Page](./imgsign_up.png)  
+![User-Friendly Sign-Up Page](./img/sign_up.png)  
 *Figure 3: Detailed waste tracking and sign-up.*
 
 ### Waste Tracking Login
