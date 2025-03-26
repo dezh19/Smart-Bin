@@ -1,19 +1,19 @@
 ## Features in Action
 
 ### AI-Powered Waste Dashboard
-![Smart Bin Sorting, Waste Tracking Insights and trash levels](./images/smart-bin-dashboard.png)  
+![Smart Bin Sorting, Waste Tracking Insights and trash levels](img/dashboar.png)  
 *Figure 1: AI-powered waste dashboard in action.*
 
 ### Real-Time Notifications and Scheduling
-![Real-Time Notifications and Scheduling](./images/dashboard.png)  
+![Real-Time Notifications and Scheduling](./img/dashboard2.png)  
 *Figure 2: Stay informed with dashboard.*
 
 ### Waste Tracking Sign-Up
-![User-Friendly Sign-Up Page](./images/waste-tracking-sign_up.png)  
+![User-Friendly Sign-Up Page](./imgsign_up.png)  
 *Figure 3: Detailed waste tracking and sign-up.*
 
 ### Waste Tracking Login
-![User-Friendly Login Page](./images/waste-tracking-login.png)  
+![User-Friendly Login Page](./img/login.png)  
 *Figure 4: Detailed waste tracking and login.*
 
 ---
